@@ -1,4 +1,4 @@
-![Alt Text](/Users/jonahhymes/Documents/PlatformIO/Projects/DTUI/FullMap.jpeg)
+![Full LED map](FullMap.jpeg)
 
 Hazy constellations is a desktop clock that consists of a recycled ecigarette LED array housed in a cigarette box. As the LED array diffuses randomly, showing twinkling stars and constellations, a user is reminded of the beauty of the night sky and the smoke pollution damaging the environment.
 

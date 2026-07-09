@@ -5,3 +5,7 @@
 .vscode/ipch
 .DS_store
 .claude
+GeekArray.cpp
+GeekArray.h
+main.cpp
+test.cpp
